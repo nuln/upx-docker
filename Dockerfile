@@ -1,6 +1,6 @@
 FROM alpine:3.18 AS builder
 
-ARG UPX_VERSION=4.2.1
+ARG UPX_VERSION=4.2.2
 
 WORKDIR /upx
 
